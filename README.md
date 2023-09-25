@@ -1,6 +1,6 @@
 
 ## 🚀 About me
-I am currently in BTS SIO SLAM (solutions
+I am a young French developer currently in BTS SIO SLAM (solutions
 software and business applications) in second year at Lycée Frédéric Chopin 
 
 
