@@ -15,6 +15,6 @@ I studied as a programming language:
    ▪ C #  
    ▪ SQL  
 
-# Learn more about me
+## :pushpin: Learn more about me
 If you want to know more about me : https://schnelzauer.asci-asso.fr/
 
