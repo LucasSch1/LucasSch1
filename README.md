@@ -1,12 +1,12 @@
 
-## 🚀 A propos de moi
-Je suis actuellement en BTS SIO SLAM (solutions
-logicielles et applications métiers) en deuxième année au lycée Frédéric Chopin 
+## 🚀 About me
+I am currently in BTS SIO SLAM (solutions
+software and business applications) in second year at Lycée Frédéric Chopin 
 
 
 
 ## 🛠 Skills
-J'ai étudié comme langage de programmation :  
+I studied as a programming language:  
    ▪ HTML  
    ▪ CSS  
    ▪ JavaScript  
