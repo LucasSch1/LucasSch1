@@ -13,5 +13,8 @@ I studied as a programming language:
    ▪ JQuery  
    ▪ PHP  
    ▪ C #  
-   ▪ SQL   
+   ▪ SQL  
+
+# Learn more about me
+If you want to know more about me : https://schnelzauer.asci-asso.fr/
 
