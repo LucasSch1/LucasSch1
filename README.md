@@ -1,7 +1,6 @@
 
 ## 🚀 About me
-I am a young French developer currently in BTS SIO SLAM (solutions
-software and business applications) in second year at Lycée Frédéric Chopin 
+I am a young French developer currently training php developer symfony on openclassrooms
 
 
 
