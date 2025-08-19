@@ -15,5 +15,5 @@ I studied as a programming language:
    ▪ SQL  
 
 ## :pushpin: Learn more about me
-If you want to know more about me : https://schnelzauer.asci-asso.fr/
+If you want to know more about me : https://lucas-schnelzauer.fr/
 
