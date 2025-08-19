@@ -9,9 +9,7 @@ I studied as a programming language:
    ▪ HTML  
    ▪ CSS  
    ▪ JavaScript  
-   ▪ JQuery  
-   ▪ PHP  
-   ▪ C #  
+   ▪ PHP    
    ▪ SQL  
 
 ## :pushpin: Learn more about me
