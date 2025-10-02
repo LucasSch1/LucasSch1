@@ -1,6 +1,6 @@
 
 ## 🚀 About me
-Young French developer who develops in php symfony
+Young French developer who develops in PHP/Symfony
 
 
 
