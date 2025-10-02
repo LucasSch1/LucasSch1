@@ -1,6 +1,6 @@
 
 ## 🚀 About me
-I am a young French developer currently training php developer symfony on openclassrooms
+Young French developer who develops in php symfony
 
 
 
